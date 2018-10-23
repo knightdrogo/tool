@@ -1,2 +1,2 @@
-# tool
+# Tool
 Music industry
